@@ -49,3 +49,7 @@ Uchovávání dat:
 - **Objednávky:** zákazník, vozidlo, datum, stav (čeká / schváleno / zamítnuto)  
 - **Rezervace:** vozidlo, zákazník, datum rezervace  
 - **Zprávy:** komunikace mezi zákazníkem a prodejcem  
+
+
+##Odkaz na figmu
+- https://www.figma.com/design/uOkfTzBS6NSLeGTLYwxZTG/Untitled?node-id=0-1&p=f&t=8MLmD0i0qAV65UuQ-0
